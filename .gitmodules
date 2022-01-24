@@ -1,3 +1,6 @@
 [submodule "jetsoftime"]
 	path = jetsoftime
 	url = https://github.com/Anskiy/jetsoftime.git
+[submodule "jetsoftime-e8892db4942bb728d7a801af94abd62a38bdaee7"]
+	path = jetsoftime-e8892db4942bb728d7a801af94abd62a38bdaee7
+	url = https://github.com/Anskiy/jetsoftime.git
